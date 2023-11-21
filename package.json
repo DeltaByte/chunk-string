@@ -1,0 +1,19 @@
+{
+  "name": "chunk-string",
+  "version": "1.0.0",
+  "description": "Split a string into smaller chunks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DeltaByte/chunk-string.git"
+  },
+  "author": "DeltaByte (https://github.com/deltabyte)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeltaByte/chunk-string/issues"
+  },
+  "homepage": "https://github.com/DeltaByte/chunk-string#readme"
+}
